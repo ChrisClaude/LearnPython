@@ -5,6 +5,8 @@
       <w>multiline</w>
       <w>mylist</w>
       <w>thislist</w>
+      <w>thisset</w>
+      <w>thistuple</w>
     </words>
   </dictionary>
 </component>
