@@ -8,10 +8,15 @@
       <w>lastname</w>
       <w>lname</w>
       <w>multiline</w>
+      <w>myclass</w>
       <w>mydoubler</w>
       <w>myfunc</w>
+      <w>myit</w>
+      <w>myiter</w>
       <w>mylist</w>
+      <w>mystr</w>
       <w>mytripler</w>
+      <w>mytuple</w>
       <w>printname</w>
       <w>thislist</w>
       <w>thisset</w>
