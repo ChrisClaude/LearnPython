@@ -1,12 +1,18 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Christ">
     <words>
+      <w>firstname</w>
+      <w>fname</w>
+      <w>graduationyear</w>
       <w>labonitos</w>
+      <w>lastname</w>
+      <w>lname</w>
       <w>multiline</w>
       <w>mydoubler</w>
       <w>myfunc</w>
       <w>mylist</w>
       <w>mytripler</w>
+      <w>printname</w>
       <w>thislist</w>
       <w>thisset</w>
       <w>thistuple</w>
