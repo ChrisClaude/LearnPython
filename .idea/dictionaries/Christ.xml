@@ -11,9 +11,11 @@
       <w>myclass</w>
       <w>mydoubler</w>
       <w>myfunc</w>
+      <w>myinnerfunc</w>
       <w>myit</w>
       <w>myiter</w>
       <w>mylist</w>
+      <w>mymodule</w>
       <w>mystr</w>
       <w>mytripler</w>
       <w>mytuple</w>
