@@ -1,12 +1,15 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Christ">
     <words>
+      <w>carname</w>
       <w>firstname</w>
       <w>fname</w>
       <w>graduationyear</w>
+      <w>itemno</w>
       <w>labonitos</w>
       <w>lastname</w>
       <w>lname</w>
+      <w>maxsplit</w>
       <w>multiline</w>
       <w>myclass</w>
       <w>mydoubler</w>
@@ -16,6 +19,7 @@
       <w>myiter</w>
       <w>mylist</w>
       <w>mymodule</w>
+      <w>myorder</w>
       <w>mystr</w>
       <w>mytripler</w>
       <w>mytuple</w>
@@ -24,6 +28,7 @@
       <w>pointe</w>
       <w>printname</w>
       <w>strftime</w>
+      <w>stri</w>
       <w>thislist</w>
       <w>thisset</w>
       <w>thistuple</w>
