@@ -2,6 +2,7 @@
   <dictionary name="Christ">
     <words>
       <w>carname</w>
+      <w>demofile</w>
       <w>firstname</w>
       <w>fname</w>
       <w>graduationyear</w>
@@ -13,6 +14,7 @@
       <w>multiline</w>
       <w>myclass</w>
       <w>mydoubler</w>
+      <w>myfile</w>
       <w>myfunc</w>
       <w>myinnerfunc</w>
       <w>myit</w>
@@ -27,11 +29,13 @@
       <w>noire</w>
       <w>pointe</w>
       <w>printname</w>
+      <w>readline</w>
       <w>strftime</w>
       <w>stri</w>
       <w>thislist</w>
       <w>thisset</w>
       <w>thistuple</w>
+      <w>woops</w>
     </words>
   </dictionary>
 </component>

@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5c1c2f-235f-489c-b79b-d67b3e915a3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sandbox/commandlineinput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox/regular_expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox/string_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox/tryexcept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/file_handling/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/file_handling/file_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/file_handling/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/file_handling/testfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Christ.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Christ.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regular_expression">
+  <component name="RunManager" selected="Python.file_handling">
     <configuration name="commandlineinput" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python-package-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file_handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sandbox" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sandbox/file_handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sandbox/python-package-test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sandbox/file_handling/file_handling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file_handling" />
         <item itemvalue="Python.regular_expression" />
         <item itemvalue="Python.string_format" />
         <item itemvalue="Python.commandlineinput" />
         <item itemvalue="Python.tryexcept" />
-        <item itemvalue="Python.python-package-test" />
       </list>
     </recent_temporary>
   </component>
