@@ -13,6 +13,7 @@
       <w>maxsplit</w>
       <w>multiline</w>
       <w>myclass</w>
+      <w>mycursor</w>
       <w>mydoubler</w>
       <w>myfile</w>
       <w>myfunc</w>
@@ -27,11 +28,13 @@
       <w>mytuple</w>
       <w>myyear</w>
       <w>noire</w>
+      <w>pdoposts</w>
       <w>pointe</w>
       <w>printname</w>
       <w>readline</w>
       <w>strftime</w>
       <w>stri</w>
+      <w>thisdict</w>
       <w>thislist</w>
       <w>thisset</w>
       <w>thistuple</w>
